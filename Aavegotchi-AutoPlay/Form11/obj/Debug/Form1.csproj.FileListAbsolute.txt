@@ -1,0 +1,4 @@
+D:\GithubNew\14\Apeiron Nft\Apeiron-Nft\Apeiron-Nft-Exp\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\14\Apeiron Nft\Apeiron-Nft\Apeiron-Nft-Exp\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\GithubNew\14\Aavegotchi\Aavegotchi\Aavegotchi-AutoPlay\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\14\Aavegotchi\Aavegotchi\Aavegotchi-AutoPlay\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
